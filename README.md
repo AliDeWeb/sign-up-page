@@ -26,8 +26,7 @@ This landing page is a fully functional sign-up page that mimics the sign-up pag
 
 ## Screenshots:
 
-<img width="172.33" height="226" src="https://github.com/AliDeWeb/sign-up-page/blob/main/imgs/Screenshot1.png?raw=true">
-<img width="172.33" height="226" src="https://github.com/AliDeWeb/sign-up-page/blob/main/imgs/Screenshot2.png?raw=true">
+<img width="172.33" height="226" src="https://github.com/AliDeWeb/sign-up-page/blob/main/imgs/Screenshot1.png?raw=true"> <img width="172.33" height="226" src="https://github.com/AliDeWeb/sign-up-page/blob/main/imgs/Screenshot2.png?raw=true">
 
 ## Contributing:
 
