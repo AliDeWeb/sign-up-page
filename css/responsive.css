@@ -1,0 +1,38 @@
+@media screen and (max-width: 1200px) {
+  .container {
+    width: 40%;
+  }
+}
+
+@media screen and (max-width: 992px) {
+  .container {
+    width: 45%;
+  }
+}
+
+@media screen and (max-width: 768px) {
+  .container {
+    width: 60%;
+  }
+}
+
+@media screen and (max-width: 576px) {
+  .container {
+    width: 80%;
+  }
+
+  .circles {
+    width: 120px;
+    height: 120px;
+  }
+
+  .blue-circle {
+    bottom: -50px;
+    right: -15px;
+  }
+
+  .yellow-circle {
+    top: -50px;
+    left: -5px;
+  }
+}
