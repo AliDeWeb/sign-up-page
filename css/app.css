@@ -1,0 +1,85 @@
+@import url("../libs/reset.css");
+@import url("../libs/bootstrap.css");
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
+}
+
+.container {
+  width: 30%;
+}
+
+form,
+form + div {
+  backdrop-filter: blur(10px);
+}
+
+input {
+  outline: none !important;
+  border: none !important;
+}
+
+.circles {
+  width: 200px;
+  height: 200px;
+
+  border-radius: 100%;
+
+  z-index: -1;
+}
+
+.blue-circle {
+  bottom: -105px;
+  right: -50px;
+}
+
+.yellow-circle {
+  top: -140px;
+  left: -50px;
+}
+
+.img-wrapper {
+  border-radius: 100%;
+
+  overflow: hidden;
+
+  width: 150px;
+  height: 150px;
+
+  margin: auto;
+}
+
+.alert {
+  top: 0.4rem;
+  left: 1rem;
+
+  transition: all ease-in 150ms;
+}
+
+/* 
+
+  Custom Classes
+
+*/
+
+.bg_080710 {
+  background-color: #080710;
+}
+
+.bg_ffffff21 {
+  background-color: #ffffff21;
+}
+
+.bg_ffffff12 {
+  background-color: #ffffff12;
+}
+
+.blue_linear {
+  background: linear-gradient(#1845ad, #23a2f6);
+}
+
+.yellow_linear {
+  background: linear-gradient(to right, #ff512f, #f09819);
+}
