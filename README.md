@@ -49,7 +49,7 @@ If you find any bugs or have any suggestions, please feel free to open an issue 
 
 ## Demo Link:
 
-See Demo By Clicking [Here](https://alideweb.github.io/sign-up-page/)
+See Demo By Clicking [Here](https://alideweb.github.io/sign-up-page/).
 
 ## Author:
 
