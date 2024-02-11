@@ -8,7 +8,7 @@ This landing page is a fully functional sign-up page that mimics the sign-up pag
 
 - ✨ Responsive design
 - ‍User-friendly interface
-- Input validation ️‍♀️
+- Input validation
 - Error handling
 - Clean and well-organized code
 
